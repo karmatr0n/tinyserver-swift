@@ -71,5 +71,3 @@ class TinyServer {
 
 var server = TinyServer(port: 8000)
 server.start()
-
-
