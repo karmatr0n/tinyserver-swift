@@ -1,7 +1,7 @@
 Description
 ===========
 
-This program runs a small server receiving a string and returns a new one in upcase format. It was designed for academic purposes and to understand how the Unix Socket works in the Swift language.
+This program runs a small server receiving a string and returns a new one in upcase format. It was designed for academic purposes and to understand how the Unix Sockets work in the Swift language.
 
 Build instructions
 =====================
