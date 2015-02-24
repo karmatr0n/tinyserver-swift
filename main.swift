@@ -5,7 +5,7 @@
 //
 // This program runs a small server receiving a string and
 // returns a new one in upcase format. It was designed for
-// academic purposes and to understand how the Unix Socket works
+// academic purposes to understand how the Unix Socket works
 // in the Swift language.
 //
 // Also, it runs in MacOS, but you do some little tweaksyou can port
